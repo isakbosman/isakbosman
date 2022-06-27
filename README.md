@@ -1,9 +1,8 @@
 ![image](https://user-images.githubusercontent.com/3680061/175923568-d664a49f-8794-4385-912f-6ccf05246c01.png)
-<div style="text-align: center;">
-  <h1> Hi 👋</h1>
 
-<p style="text-align: center;">Reach me at ib@"mygithubusername".com</p>
- </div>
+# Hi 👋
+
+Reach me at ib@"mygithubusername".com
 <!--
 **isakbosman/isakbosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
