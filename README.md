@@ -1,5 +1,9 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/3680061/175923568-d664a49f-8794-4385-912f-6ccf05246c01.png)
+<div style="text-align: center;">
+  <h1> Hi 👋</h1>
 
+<p style="text-align: center;">Reach me at ib@"mygithubusername".com</p>
+ </div>
 <!--
 **isakbosman/isakbosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/3680061/175923568-d664a49f-8794-4385-912f-6ccf05246c01.png)
 
 
 [![Isak's GitHub stats](https://github-readme-stats.vercel.app/api?username=isakbosman&count_private=true&show_icons=true&theme=neon-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
